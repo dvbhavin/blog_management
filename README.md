@@ -1,4 +1,4 @@
-# laravel-9-demo
+# Blog management
 In this project composer 2.0 version is required
 
 1. Open terminal and go to project directory
